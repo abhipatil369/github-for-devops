@@ -3,3 +3,6 @@ git init
 git add
 git commit -m "message"
 git restore
+git log
+git remote add origin
+git remote set-url
